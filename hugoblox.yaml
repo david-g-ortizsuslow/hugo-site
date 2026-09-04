@@ -1,0 +1,4 @@
+# Deployment target for the GitHub Actions workflow in .github/workflows/deploy.yml
+# Options: github-pages (default), netlify, vercel, cloudflare, none
+deploy:
+  host: github-pages
